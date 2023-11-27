@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="country">
+        <item>Afganistan</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>China</item>
+    </string-array>
+    <string-array name="famous">
+        <item>Potato</item>
+        <item>Politics</item>
+        <item>rice</item>
+        <item>cow</item>
+        <item>soyabin</item>
+    </string-array>
+</resources>
